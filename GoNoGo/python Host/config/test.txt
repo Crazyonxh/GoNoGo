@@ -1,0 +1,1 @@
+{"headTailDuration": 450, "timeWindowDelay": 100, "timeWindowDuration": 10000, "soundDuration": 500, "waterDuration": 500, "puffDuration": 300, "leftTrials": 3000, "noGo": 0}
