@@ -18,7 +18,7 @@ https://learn.sparkfun.com/tutorials/how-to-install-ch340-drivers/all
 https://www.pianshen.com/article/6844885461/
 https://pan.baidu.com/s/182yxyABTae9fMMXMB_CJww 密码: 32a
 
-
+# 使用说明
 ⼀. 怎么⽤
 1. 硬件单元测试
 烧录 Arduino/Unit Test 中的⼏个⽂件，测试各硬件单元是否运转正常:
@@ -80,7 +80,7 @@ Hardware
 注意打开程序后点 CON 后才开始连接，点 REC 后才开始记录数据。如果使⽤烧录进去的默认参数，
 不需要点击 PARA （如果⼀段时间⽤相同参数做单个实验，建议修改 Arduino/main/main.ino 中
 的参数，运⾏多个实验需要切换参数的话可以把各个实验的参数储存在不同⽂件中上传）
-
+# 搭建说明
 1. 元件集合
 Arduino主体和扩展板
 1. Arduino Uno【1】
